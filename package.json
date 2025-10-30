@@ -1,0 +1,15 @@
+{
+  "name": "fair-slack-moderation-bot",
+  "version": "1.0.0",
+  "description": "FAIR Slack moderation bot",
+  "main": "slack-moderation-worker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "wrangler": "^3.94.0"
+  }
+}
